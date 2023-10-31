@@ -63,9 +63,8 @@ body{
  .card-section{
      display: flex;
      flex-wrap: wrap;
-     gap: 50px;
-     margin: 2rem 0 0 2rem;
      padding: 40px;
+     justify-content: space-evenly;
 }
 p {
     font-size: 17px;
