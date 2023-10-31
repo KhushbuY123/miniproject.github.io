@@ -60,6 +60,12 @@ body{
     color: whitesmoke;
     line-height: 40px;
 }
+.card1:hover #userlogo{
+    color: white;
+}
+.card1:hover p{
+     color: white;
+}
  .card-section{
      display: flex;
      flex-wrap: wrap;
