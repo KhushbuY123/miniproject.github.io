@@ -1,4 +1,4 @@
-let card=document.querySelector(".card1");
-card.addEventListener("mouseover",()=>{
-    card.style.color="white";
+let logout=document.querySelector(".log-out")
+logout.addEventListener("click",()=>{
+    window.location.href="index.html"
 })
